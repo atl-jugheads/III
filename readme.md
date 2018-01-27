@@ -3,7 +3,7 @@
 
 # [Jupyter User Group Meeting III](https://www.meetup.com/Atlanta-Jupyter-User-Group/events/246623197/)
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/atl-jugheads/III/tree/master/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/atl-jugheads/III/master)
 
 * [Github]()
 * [Nbviewer](http://nbviewer.jupyter.org/github/atl-jugheads/III/blob/master/readme.ipynb)
@@ -28,7 +28,3 @@ this way the audience can interact with the speaker during their talk.
 ```python
 !jupyter nbconvert --to markdown readme.ipynb
 ```
-
-    [NbConvertApp] Converting notebook readme.ipynb to markdown
-    [NbConvertApp] Writing 1073 bytes to readme.md
-
