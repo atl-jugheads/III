@@ -1,4 +1,6 @@
 
+![](https://secure.meetupstatic.com/photos/event/2/5/1/c/highres_467829500.jpeg)
+
 # [Jupyter User Group Meeting III](https://www.meetup.com/Atlanta-Jupyter-User-Group/events/246623197/)
 
 * [Github]()
@@ -24,7 +26,3 @@ this way the audience can interact with the speaker during their talk.
 ```python
 !jupyter nbconvert --to markdown readme.ipynb
 ```
-
-    [NbConvertApp] Converting notebook readme.ipynb to markdown
-    [NbConvertApp] Writing 766 bytes to readme.md
-
