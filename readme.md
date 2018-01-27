@@ -30,5 +30,5 @@ this way the audience can interact with the speaker during their talk.
 ```
 
     [NbConvertApp] Converting notebook readme.ipynb to markdown
-    [NbConvertApp] Writing 848 bytes to readme.md
+    [NbConvertApp] Writing 1073 bytes to readme.md
 
